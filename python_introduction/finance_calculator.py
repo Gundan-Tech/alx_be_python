@@ -1,4 +1,4 @@
-monthly_income = (input ("Enter your monthly income: "))
+monthly_income = float (input ("Enter your monthly income: "))
 
 monthly_expence = float(input ("Enter your total monthly expenses: "))
 
