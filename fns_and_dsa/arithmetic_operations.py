@@ -1,4 +1,4 @@
-def perform_operation (num1, num2, operation):
+def perform_operation(num1, num2, operation):
     if operation == "add":
         result = num1 + num2
     elif operation == "subtract":
@@ -15,6 +15,3 @@ def perform_operation (num1, num2, operation):
     return result
 
 
-
-test = perform_operation(5,0,'divide')
-print (test)
